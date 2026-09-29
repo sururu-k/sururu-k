@@ -40,6 +40,22 @@
 
 ---
 
+## 🤝 外部コントリビューション (External Contributions)
+
+<div align="center">
+
+<a href="https://github.com/NyxFoundation/speca">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=NyxFoundation&repo=speca&theme=dark&bg_color=0d1117&border_color=30363d" alt="NyxFoundation/speca" />
+</a>
+
+</div>
+
+- 🛡️ **[NyxFoundation/speca](https://github.com/NyxFoundation/speca)**
+  - *Specification-to-Checklist Agentic Auditing Framework*
+  - エージェント型仕様駆動セキュリティ監査フレームワーク SPECA への各種開発・データセット整備・コントリビューション。
+
+---
+
 ## 🛠 技術スタック
 
 | カテゴリ | 使用技術・ツール |
