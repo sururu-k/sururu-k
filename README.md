@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 こんにちは！ @sururu-k です
+# こんにちは @sururu-k です
 
-### 🚀 **Web3・セキュリティ研究 / AIエージェント開発 / ハードウェア・組込開発**
+### Web3・セキュリティ研究 / AIエージェント開発 / ハードウェア・組込開発
 
 ![GitHub 連続コミット Streak](https://streak-stats.demolab.com/?user=sururu-k&theme=dark&background=0d1117&stroke=58a6ff&alarm=f85149)
 
@@ -10,7 +10,7 @@
 
 </div>
 
-## 📈 コミット貢献度・アクティビティカレンダー (Contribution Calendar)
+## コミット貢献度・アクティビティカレンダー (Contribution Calendar)
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 📊 統計 & 使用言語 (GitHub Overview & Stats)
+## 統計 & 使用言語 (GitHub Overview & Stats)
 
 <div align="center">
 
@@ -31,16 +31,16 @@
 
 ---
 
-## 🔬 自己紹介 & 関心分野
+## 自己紹介 & 関心分野
 
-- 🛡️ **Web3・ブロックチェーン・形式検証**: Ethereum コンセンサス仕様の事前条件検証、Lean 4 による数理証明、Decentralized Identity。
-- 🤖 **AI & 自律型エージェント**: LLM を活用したコーディングエージェント開発、自然言語処理ツール、ワークフロー自動化。
-- ⚙️ **ハードウェア & 組込・IoT**: 列車行先表示器（3方向幕）の自作指令器およびWebシミュレーター、各種独自ガジェット・通知ツール作成。
-- 🏆 **ハッカソン & オープンソース**: ハッカソンへの積極的な参加およびオープンソースコミット。
+- **Web3・ブロックチェーン・形式検証**: Ethereum コンセンサス仕様の事前条件検証、Lean 4 による数理証明、Decentralized Identity。
+- **AI & 自律型エージェント**: LLM を活用したコーディングエージェント開発、自然言語処理ツール、ワークフロー自動化。
+- **ハードウェア & 組込・IoT**: 列車行先表示器（3方向幕）の自作指令器およびWebシミュレーター、各種独自ガジェット・通知ツール作成。
+- **ハッカソン & オープンソース**: ハッカソンへの積極的な参加およびオープンソースコミット。
 
 ---
 
-## 🤝 外部コントリビューション (External Contributions)
+## 外部コントリビューション (External Contributions)
 
 <div align="center">
 
@@ -50,13 +50,13 @@
 
 </div>
 
-- 🛡️ **[NyxFoundation/speca](https://github.com/NyxFoundation/speca)**
+- **[NyxFoundation/speca](https://github.com/NyxFoundation/speca)**
   - *Specification-to-Checklist Agentic Auditing Framework*
   - エージェント型仕様駆動セキュリティ監査フレームワーク SPECA への各種開発・データセット整備・コントリビューション。
 
 ---
 
-## 🛠 技術スタック
+## 技術スタック
 
 | カテゴリ | 使用技術・ツール |
 | :--- | :--- |
@@ -66,7 +66,7 @@
 
 ---
 
-## 🌟 ピックアッププロジェクト
+## ピックアッププロジェクト
 
 <div align="center">
 
@@ -89,5 +89,5 @@
 ---
 
 <div align="center">
-  <sub>⭐️ <a href="https://github.com/sururu-k">@sururu-k</a> のプロフィールページ</sub>
+  <sub><a href="https://github.com/sururu-k">@sururu-k</a> のプロフィールページ</sub>
 </div>
