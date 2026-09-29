@@ -4,27 +4,17 @@
 
 ### 🚀 **Web3・セキュリティ研究 / AIエージェント開発 / ハードウェア・組込開発**
 
-![GitHub 連続コミット Streak](https://github-readme-streak-stats.herokuapp.com/?user=sururu-k&theme=dark&background=0d1117&stroke=58a6ff&alarm=f85149)
+![GitHub 連続コミット Streak](https://streak-stats.demolab.com/?user=sururu-k&theme=dark&background=0d1117&stroke=58a6ff&alarm=f85149)
 
 ---
 
 </div>
 
-## 🏆 GitHub トロフィー
+## 📈 コミット貢献度・アクティビティカレンダー (Contribution Calendar)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sururu-k&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Profile Trophies" />
-
-</div>
-
----
-
-## 📈 コミット履歴・アクティビティグラフ
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sururu-k&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="sururu-k's Activity Graph" width="100%" />
+![sururu-k's GitHub Contribution Chart](https://ghchart.rshah.org/409efe/sururu-k)
 
 </div>
 
@@ -34,8 +24,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sururu-k&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&border_color=30363d" alt="sururu-k's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sururu-k&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&border_color=30363d" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=sururu-k&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&border_color=30363d" alt="sururu-k's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sururu-k&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&border_color=30363d" alt="Top Languages" width="48%" />
 
 </div>
 
@@ -65,17 +55,17 @@
 <div align="center">
 
 <a href="https://github.com/sururu-k/css2026-slides">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sururu-k&repo=css2026-slides&theme=dark&bg_color=0d1117&border_color=30363d" alt="css2026-slides" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sururu-k&repo=css2026-slides&theme=dark&bg_color=0d1117&border_color=30363d" alt="css2026-slides" />
 </a>
 <a href="https://github.com/sururu-k/teapot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sururu-k&repo=teapot&theme=dark&bg_color=0d1117&border_color=30363d" alt="teapot" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sururu-k&repo=teapot&theme=dark&bg_color=0d1117&border_color=30363d" alt="teapot" />
 </a>
 <br/>
 <a href="https://github.com/sururu-k/video-auto-mosaic">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sururu-k&repo=video-auto-mosaic&theme=dark&bg_color=0d1117&border_color=30363d" alt="video-auto-mosaic" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sururu-k&repo=video-auto-mosaic&theme=dark&bg_color=0d1117&border_color=30363d" alt="video-auto-mosaic" />
 </a>
 <a href="https://github.com/sururu-k/SPCDirectionCurtain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sururu-k&repo=SPCDirectionCurtain&theme=dark&bg_color=0d1117&border_color=30363d" alt="SPCDirectionCurtain" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sururu-k&repo=SPCDirectionCurtain&theme=dark&bg_color=0d1117&border_color=30363d" alt="SPCDirectionCurtain" />
 </a>
 
 </div>
